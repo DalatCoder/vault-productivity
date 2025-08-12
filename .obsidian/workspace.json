@@ -4,67 +4,165 @@
     "type": "split",
     "children": [
       {
-        "id": "7ea89b08fd8afa41",
+        "id": "31a5ba7fba59f49e",
         "type": "tabs",
         "children": [
           {
-            "id": "9036c8c4cf7c576f",
+            "id": "6fd7e2d0f3f8b723",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clickup-project-management/section-5-the-page-views/05-01 - Chat View.md",
+                "file": "clickup-project-management/section-6-productivity/06-01 - The Command Center.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-01 - Chat View"
+              "title": "06-01 - The Command Center"
             }
           },
           {
-            "id": "c0be6a134f397c12",
+            "id": "921703556fc14ea9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clickup-project-management/section-5-the-page-views/05-02 - Doc View.md",
+                "file": "clickup-project-management/section-6-productivity/06-02 - The Whiteboard.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-02 - Doc View"
+              "title": "06-02 - The Whiteboard"
             }
           },
           {
-            "id": "0544f2e4ac9636b7",
+            "id": "bacb596e405612b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clickup-project-management/section-5-the-page-views/05-03 - Form View.md",
+                "file": "clickup-project-management/section-6-productivity/06-03 - The Task Tray.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-03 - Form View"
+              "title": "06-03 - The Task Tray"
             }
           },
           {
-            "id": "1c67822d4ee021eb",
+            "id": "246453c3bf9a320e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clickup-project-management/section-5-the-page-views/05-04 - Embed View.md",
+                "file": "clickup-project-management/section-6-productivity/06-04 - Notepad.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-04 - Embed View"
+              "title": "06-04 - Notepad"
+            }
+          },
+          {
+            "id": "4411d14e72edc83a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clickup-project-management/section-6-productivity/06-05 - ClickUp Applications.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06-05 - ClickUp Applications"
+            }
+          },
+          {
+            "id": "15c6be4c4166e1ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clickup-project-management/section-6-productivity/06-06 - Importing data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06-06 - Importing data"
+            }
+          },
+          {
+            "id": "471601c39fbe68e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clickup-project-management/section-6-productivity/06-07 - Export functionality.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06-07 - Export functionality"
+            }
+          },
+          {
+            "id": "ad0a66ed89ae1d57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clickup-project-management/section-6-productivity/06-08 - Template Center.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06-08 - Template Center"
+            }
+          },
+          {
+            "id": "616eb9797f50f52a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clickup-project-management/section-6-productivity/06-09 - ClickUp Rewards.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06-09 - ClickUp Rewards"
+            }
+          },
+          {
+            "id": "340dfe473b0b4dee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clickup-project-management/section-6-productivity/06-10 - Layout size and style.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06-10 - Layout size and style"
+            }
+          },
+          {
+            "id": "a577d4cb279ffbaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clickup-project-management/section-6-productivity/06-11 - Hotkeys.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06-11 - Hotkeys"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -211,10 +309,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c67822d4ee021eb",
+  "active": "a577d4cb279ffbaa",
   "lastOpenFiles": [
-    "clickup-project-management/section-5-the-page-views/05-03 - Form View.md",
+    "clickup-project-management/section-6-productivity/06-10 - Layout size and style.md",
+    "clickup-project-management/section-6-productivity/06-11 - Hotkeys.md",
+    "clickup-project-management/section-6-productivity/06-09 - ClickUp Rewards.md",
+    "clickup-project-management/section-6-productivity/06-08 - Template Center.md",
+    "clickup-project-management/section-6-productivity/06-07 - Export functionality.md",
+    "clickup-project-management/section-6-productivity/06-06 - Importing data.md",
+    "clickup-project-management/section-6-productivity/06-05 - ClickUp Applications.md",
+    "clickup-project-management/section-6-productivity/06-04 - Notepad.md",
+    "clickup-project-management/section-6-productivity/06-03 - The Task Tray.md",
+    "clickup-project-management/section-6-productivity/06-02 - The Whiteboard.md",
+    "clickup-project-management/section-6-productivity/06-01 - The Command Center.md",
     "clickup-project-management/section-5-the-page-views/05-04 - Embed View.md",
+    "clickup-project-management/section-6-productivity",
+    "clickup-project-management/section-5-the-page-views/05-03 - Form View.md",
     "clickup-project-management/section-5-the-page-views/05-02 - Doc View.md",
     "clickup-project-management/section-5-the-page-views/05-01 - Chat View.md",
     "clickup-project-management/section-5-the-page-views",
@@ -231,18 +341,8 @@
     "clickup-project-management/section-3-creating-our-first-project/03-06 - Edit Permissions.md",
     "clickup-project-management/section-3-creating-our-first-project/03-05 - Sort and Filter.md",
     "clickup-project-management/section-3-creating-our-first-project/03-04 - Subtasks, Checklists, Dependencies and other features.md",
-    "clickup-project-management/section-3-creating-our-first-project/03-05 - Notifications.md",
-    "clickup-project-management/section-3-creating-our-first-project/03-03 - Fields management and Custom fields.md",
-    "clickup-project-management/section-3-creating-our-first-project/03-02 - Finalizing the structure.md",
-    "clickup-project-management/section-3-creating-our-first-project/03-01 - Setting the structure for your project.md",
-    "clickup-project-management/section-3-creating-our-first-project/Untitled.md",
     "clickup-project-management/section-3-creating-our-first-project",
-    "clickup-project-management/section-02-the-basics/02-02 - The Interface.md",
-    "clickup-project-management/section-02-the-basics/02-03 - Workspaces, Spaces, Folders, Lists, Tasks.md",
-    "clickup-project-management/section-02-the-basics/02-01 - Setting up your account.md",
-    "clickup-project-management/section-01-introduction/01-01 - Introduction.md",
     "clickup-project-management/section-02-the-basics",
-    "README.md",
     "clickup-project-management/section-01-introduction"
   ]
 }
